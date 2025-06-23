@@ -71,6 +71,8 @@ Streamlit UI lets you drop in, pick an agent, and spy on their thoughts guilt-fr
 
 ### 📸 Screenshot:
 
-![Streamlit Phase 1](https://github.com/timchensuper999/Civilizism/blob/main/devlog/phase_1_streamlit_ui.png?raw=true)
+![Phase 1 Sample Image(1/3)](https://github.com/timchensuper999/Civilizism/blob/d565746fc540c2961ad2fbf1ebaf013989e6196e/devlog/phase%201/Phase%201%20Sample%20(1-3).png)
+![Phase 1 Sample Image(2/3)](https://github.com/timchensuper999/Civilizism/blob/d565746fc540c2961ad2fbf1ebaf013989e6196e/devlog/phase%201/Phase%201%20Sample%20(2-3).png)
+![Phase 1 Sample Image(3/3)](https://github.com/timchensuper999/Civilizism/blob/d565746fc540c2961ad2fbf1ebaf013989e6196e/devlog/phase%201/Phase%201%20Sample%20(3-3).png)
 
-> *“They live. They walk. They reflect. And they’re weirdly obsessed with chairs.”*
+> *“They live. They walk. They reflect. And they’re weirdly obsessed with snacking.”*
