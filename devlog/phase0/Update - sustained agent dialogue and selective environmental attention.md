@@ -40,7 +40,7 @@ System reminders about `chair_1` being lonely were **consciously deprioritized**
 ---
 
 ### 📸 Updated Screenshot:
-![Phase 0 Sustained Dialogue](https://github.com/timchensuper999/Civilizism/blob/main/devlog/Phase%200%20Dialogue%20New%20Model.png?raw=true)
+![Phase 0 Sustained Dialogue](https://github.com/timchensuper999/Civilizism/blob/main/devlog/phase0/phase0%20pic/Phase%200%20Dialogue%20New%20Model.png)
 
 ---
 
