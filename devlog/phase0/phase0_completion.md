@@ -37,6 +37,6 @@ It’s like watching two AI therapists trying to out-validate each other without
 ---
 
 ### 📸 Screenshot:
-![Agent Dialogue...Somewhat](https://github.com/timchensuper999/Civilizism/blob/main/devlog/phase_0_agent_dialogue.png?raw=true)
+![Agent Dialogue...Somewhat](https://github.com/timchensuper999/Civilizism/blob/main/devlog/phase0/phase0%20pic/phase_0_agent_dialogue.png)
 
 > “They're talking and acknowledging each other...and that's all it matters for now”
